@@ -9,12 +9,12 @@
     <string name="default_buttons_do_not_show_again">دوباره نشان نده</string>
     <string name="distance_measurement_start_editing">شروع ویرایش</string>
     <string name="distance_measurement_finish_editing">اتمام ویرایش</string>
-    <string name="distance_measurement_clear_route">حذف تمامی نقاط</string>
-    <string name="distance_measurement_save_gpx">ذخیره به صورت جی پی ایکس</string>
-    <string name="distance_measurement_load_gpx">باز کردن فایل جی پی ایکس</string>
+    <string name="distance_measurement_clear_route">حذف تمامی مسیر</string>
+    <string name="distance_measurement_save_gpx">GPX ذخیره به صورت فایل</string>
+    <string name="distance_measurement_load_gpx">GPX باز کردن فایل</string>
     <string name="wait_current_task_finished">لطفاً تا اتمام عملیات جاری منتظر بمانید</string>
     <string name="use_magnetic_sensor">استفاده از حسگر مغناطیسی</string>
-    <string name="other_location">دیگر</string>
+    <string name="other_location">مکان دیگر</string>
     <string name="files_limit">فایل باقیمانده است</string>
     <string name="available_downloads_left">فایل برای دانلود باقیمانده است</string>
     <string name="install_paid">نسخه کامل</string>
@@ -31,7 +31,7 @@
     <string name="select_address_activity">انتخاب آدرس</string>
     <string name="favourites_list_activity">انتخاب علاقمندی</string>
     <string name="local_openstreetmap_act_title">تغییرات OsmAnd</string>
-    <string name="map_widget_gps_info">اطلاعات جی پی اس</string>
+    <string name="map_widget_gps_info">GPS اصلاعات</string>
     <string name="access_arrival_time">زمان رسیدن به مقصد</string>
     <string name="map_view">نقشه</string>
     <string name="dist_control_start">شروع</string>
@@ -41,19 +41,19 @@
     <string name="intermediate_points_change_order">تغییر ردیف</string>
     <string name="av_def_action_video">ضبط ویدئو</string>
     <string name="av_def_action_audio">ضبط صدا</string>
-    <string name="av_video_format_descr">انتخاب قالب خروجی ویدئو</string>
-    <string name="av_video_format">قالب خروجی ویدئو</string>
+    <string name="av_video_format_descr">انتخاب فرمت خروجی ویدیو</string>
+    <string name="av_video_format">فرمت خروجی ویدیو</string>
     <string name="av_settings">تنظیمات صدا و تصویر </string>
-    <string name="av_use_external_recorder">استفاده از برنامه ضبط سیستم</string>
-    <string name="av_use_external_camera_descr">استفاده از برنامه تصویر سیستم</string>
+    <string name="av_use_external_recorder">استفاده از برنامه ضبط صدا سیستم</string>
+    <string name="av_use_external_camera_descr">استفاده از برنامه دوربین سیستم</string>
     <string name="av_use_external_camera">از برنامه دوربین استفاده شود</string>
     <string name="av_settings_descr">تغییر تنظیمات صدا و تصویر</string>
     <string name="recording_error">خطا در حین ضبط </string>
     <string name="recording_camera_not_available">دوربین وجود ندارد</string>
     <string name="recording_context_menu_arecord">یادداشت صوتی</string>
     <string name="recording_context_menu_vrecord">یادداشت ویدئویی</string>
-    <string name="layer_recordings">لایه ضبط شده ها</string>
-    <string name="recording_can_not_be_played">نمیتوان فایل ضبط شده را نمایش داد</string>
+    <string name="layer_recordings">لایه های ضبط شدها</string>
+    <string name="recording_can_not_be_played">امکان پخش فایل ضبط شده وجود ندارد</string>
     <string name="recording_context_menu_delete">حذف فایل ضبط شده</string>
     <string name="recording_context_menu_play">پخش</string>
     <string name="recording_default_name">ضبط</string>
@@ -64,9 +64,9 @@
     <string name="map_widget_audionotes">یادداشتهای صوتی</string>
     <string name="audionotes_plugin_description">یادداشت صوتی/ویدئویی درحین سفر</string>
     <string name="audionotes_plugin_name">یادداشتهای صوتی/ویدئویی</string>
-    <string name="download_select_map_types">نقشه های دیگر</string>
-    <string name="download_regular_maps">نقشه های عادی</string>
-    <string name="download_roads_only_maps">نقشه های فقط حاوی جاده</string>
+    <string name="download_select_map_types">دانلود نقشه های دیگر</string>
+    <string name="download_regular_maps">دانلود نقشه های استاندارد</string>
+    <string name="download_roads_only_maps">دانلود نقشه ها فقط به صورت جاده</string>
     
 	<string name="rendering_attr_noAdminboundaries_name">مخفی کردن محدوده ها</string>
 	<string name="map_widget_max_speed">سرعت مجاز</string>
@@ -74,13 +74,13 @@
     <string name="route_descr_current_location">موقعیت فعلی</string>
     <string name="no_buildings_found">ساختمانی یافت نشد.</string>
     <string name="search_villages_and_postcodes">جستجوی روستاها/کد پستی</string>
-	<string name="replace_destination_point">جایگزین مقصد کن</string>
+	<string name="replace_destination_point">جایگزین کردن با مقصد فعلی</string>
     <string name="new_destination_point_dialog">قبلاً مقصد انتخاب شده است.</string>
     <string name="poi_filter_parking">پارکینگ</string>
     <string name="poi_filter_emergency">اورژانس</string>
     <string name="poi_filter_public_transport">حمل و نقل عمومی</string>
     <string name="poi_filter_entertainment">مکانهای تفریحی</string>
-    <string name="poi_filter_accomodation">مکانهای اطراق کردن</string>
+    <string name="poi_filter_accomodation">مکانهای استراحت کردن</string>
     <string name="poi_filter_restaurants">رستورانها</string>
     <string name="poi_filter_sightseeing">مکانهای دیدنی</string>
     <string name="poi_filter_car_aid">تعمیرگاه</string>
@@ -88,8 +88,8 @@
 	<string name="poi_filter_for_tourists">مناسب توریستها</string>
 	<string name="poi_filter_fuel">جایگاه سوخت</string>
 	<string name="auto_zoom_map_descr">زوم خودکار بر اساس سرعت خودرو</string>
-	<string name="recalculate_route_to_your_location">شیوه رفت و آمد:</string>
-	<string name="select_navigation_mode">انتخاب شیوه رفت و آمد</string>
+	<string name="recalculate_route_to_your_location">محاسبه مسیر تا موقعیت شما</string>
+	<string name="select_navigation_mode">انتخاب حالت پیمایش مسیر</string>
 	<string name="day_night_info">اطلاعات روز/شب</string>
 	<string name="day_night_info_description">طلوع خورشید: %1$s\nغروب خورشید: %2$s</string>
 	<string name="map_widget_day_night">نقشه روز/شب</string>
@@ -97,7 +97,7 @@
 	
 	<string name="map_widget_show_ruler">خط کش</string>
 	<string name="map_widget_appearance">متفرقه:</string>
-	<string name="map_widget_view_direction">جهت دید</string>
+	<string name="map_widget_view_direction">زاویه دید</string>
 	<string name="map_widget_transparent">پوسته شفاف</string>
 	<string name="int_continuosly">مداوم</string>
 	<string name="map_widget_top_text">نام خیابان</string>
@@ -107,7 +107,7 @@
 	<string name="map_widget_top_stack">نوار وضعیت:</string>
 	<string name="map_widget_reset">برگشت تنظیمات به حالت اولیه</string>
 	<string name="map_widget_parking">پارکینگ</string>
-	<string name="map_widget_monitoring">ضبط GPX</string>
+	<string name="map_widget_monitoring">GPX ضبط</string>
 	<string name="map_widget_speed">سرعت</string>
 	<string name="map_widget_distance">مقصد</string>
 	<string name="map_widget_altitude">ارتفاع</string>
@@ -118,8 +118,8 @@
 	<string name="map_widget_mini_route">نقشه مسیر کوچک</string>
 	<string name="avoid_in_routing_title">اجتناب از…</string>
 	<string name="avoid_in_routing_descr">اجتناب از عوارضی ها، جاده های غیرآسفالت، حمل با کشتی</string>
-	<string name="monitoring_mode_off">ضبط GPX</string>
-	<string name="monitoring_mode_on">توقف\nضبط GPX.</string>
+	<string name="monitoring_mode_off">GPX توقف</string>
+	<string name="monitoring_mode_on">GPX ضبط</string>
 	<string name="bg_service_screen_lock_toast">صفحه قفل میباشد</string>
 	<string name="show_cameras">نشان دادن دوربینهای کنترل سرعت</string>
 	<string name="show_traffic_warnings">نشان دادن هشدارهای ترافیکی</string>
@@ -143,7 +143,7 @@
 	<string name="osmand_parking_choose_type">انتخاب نوع پارکینگ</string>
 	<string name="osmand_parking_lim_text">مدت زمان محدود</string>
 	<string name="osmand_parking_no_lim_text">مدت زمان نامحدود</string>
-	<string name="osmand_parking_add_event">اضافه کردن یادآور به برنامه تقویم</string>
+	<string name="osmand_parking_add_event">اضافه کردن یادآوری به برنامه تقویم</string>
 	<string name="osmand_parking_time_limit">پارک کردن با محدودیت زمانی</string>
 	<string name="osmand_parking_time_no_limit">پارک کردن بدون محدودیت زمانی</string>
 	<string name="osmand_parking_position_description">موقعیت خودرو شما در %1$s</string>
@@ -185,7 +185,7 @@
     <string name="dropbox_plugin_name">افزونه دراپ باکس</string>
     
     <string name="av_use_external_recorder_descr">استفاده از دوربین سیستم برای ضبط ویدئو</string>
-    <string name="recording_open_external_player">باز کردن پخش کننده خارجی</string>
+    <string name="recording_open_external_player">باز کردن پخش کننده خارج از این برنامه</string>
     <string name="recording_unavailable">موجود نیست</string>
     <string name="map_widget_distancemeasurement">اندازه گیری فاصله</string>
     <string name="index_srtm_parts">بخش ها</string>

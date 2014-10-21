@@ -210,69 +210,6 @@
     <string name="av_widget_action">عملکرد پیشفرض ویجت</string>
     <string name="destination_point">مقصد</string>
     <string name="context_menu_item_destination_point">تنظیم به عنوان مقصد</string>
-    <string name="email">پست الکترونیکی</string>
-<string name="edit_filter_save_as_menu_item">ذخیره در</string>
-	<string name="edit_filter_delete_dialog_title">فیلتر انتخاب شده حذف شود؟</string>
-	<string name="edit_filter_delete_message">فیلتر {0} حذف شد</string>
-	<string name="edit_filter_create_message">فیلتر {0} ایجاد شد</string>
-	<string name="default_buttons_selectall">انتخاب همه</string>
-	<string name="default_buttons_reset">تنظیم مجدد</string>
-	<string name="filter_current_poiButton">فیلتر</string>
-	<string name="edit_filter_delete_menu_item">حذف</string>
-	<string name="poi_dialog_other_tags_message">همه تگ ها حفظ شد</string>
-	<string name="poi_dialog_name">نام</string>
-	<string name="poi_dialog_opening_hours">بازکردن</string>
-	<string name="poi_dialog_comment">توضیح</string>
-	<string name="poi_create_title">ایجاد POI</string>
-	<string name="poi_remove_title">حذف POI</string>
-	<string name="default_buttons_delete">حذف</string>
-	<string name="poi_remove_success">POI حذف شد</string>
-	<string name="poi_action_add">افزودن</string>
-	<string name="poi_action_change">تغییردادن</string>
-	<string name="poi_action_succeded_template">{0} انجام شد.</string>
-	<string name="poi_error_unexpected_template">خطای غیرمنتظره در حین {0} اتفاق افتاد.</string>
-	<string name="poi_error_io_error_template">خطای I/O در حین انجام {0} اتفاق افتاد.</string>
-	<string name="poi_error_info_not_loaded">اطلاعات نقطه بارگذاری نشد</string>
-	<string name="osb_comment_menu_item">افزودن توضیح</string>
-	<string name="osb_comment_dialog_message">پیام</string>
-	<string name="osb_comment_dialog_author">نام نویسنده</string>
-	<string name="osb_comment_dialog_title">افزودن توضیح به اشکال</string>
-	<string name="osb_comment_dialog_add_button">افزودن توضیح</string>
-	<string name="osb_comment_dialog_success">توضیح اضافه شد</string>
-	<string name="osb_close_menu_item">بستن اشکال</string>
-	<string name="osb_close_dialog_title">درحال بستن اشکال</string>
-	<string name="osb_close_dialog_close_button">بستن اشکال</string>
-	<string name="osb_close_dialog_success">اشکال بسته شد</string>
-	<string name="poi_edit_title">ویرایش POI</string>
-	<string name="search_shown_on_map">روی نقشه نشان بده</string>
-	<string name="navigate_point_cancel">لغو</string>
-	<string name="search_address_top_text">انتخاب آدرس</string>
-	<string name="search_address_region">ناحیه</string>
-	<string name="search_address_city">شهر</string>
-	<string name="search_address_street">خیابان</string>
-	<string name="search_address_building">ساختمان</string>
-	<string name="search_address_building_option">ساختمان</string>
-	<string name="search_address_street_option">تقاطع</string>
-	<string name="search_tabs_location">محل</string>
-	<string name="context_menu_item_add_favorite">افزودن به علاقمندیها</string>
-	<string name="context_menu_item_update_map">به روز رسانی نقشه</string>
-	<string name="context_menu_item_open_bug">بازکردن اشکال OSM</string>
-	<string name="context_menu_item_create_poi">ایجاد POI</string>
-	<string name="default_buttons_yes">بله</string>
-	<string name="default_buttons_cancel">لغو</string>
-	<string name="default_buttons_apply">بکارگیری</string>
-	<string name="default_buttons_add">افزودن</string>
-	<string name="default_buttons_no">خیر</string>
-	<string name="add_favorite_dialog_top_text">نام علاقمندی را وارد کنید</string>
-	<string name="add_favorite_dialog_default_favourite_name">علاقمندی</string>
-	<string name="add_favorite_dialog_favourite_added_template">نقطه علاقمندی \'{0}\' اضافه شد.</string>
-	<string name="favourites_context_menu_edit">ویرایش علاقمندی</string>
-	<string name="favourites_context_menu_delete">حذف علاقمندی</string>
-	<string name="favourites_remove_dialog_msg">آیا نقطه مورد علاقه \'%s\' حذف شود؟</string>
-	<string name="favourites_remove_dialog_success">علاقمندی {0} حذف شد.</string>
-	<string name="osb_add_dialog_title">شرح اشکال را وارد کنید</string>
-	<string name="osb_add_dialog_success">اشکال با موفقیت ایجاد شد</string>
-	<string name="osb_add_dialog_error">خطایی روی داد: اشکال ایجاد نشد</string>
 	<string name="search_address">جستجوی آدرس</string>
 	<string name="add_to_favourite">افزودن به علاقمندیها</string>
 	<string name="use_english_names_descr">انتخاب بین نامهای بومی یا انگلیسی</string>
@@ -311,9 +248,6 @@
 	<string name="navigate_point_top_text">طول و عرض جغرافیایی را در قالب انتخاب شده وارد کنید ( D-درجه، M-دقیقه، S-ثانیه)</string>
 	<string name="navigate_point_latitude">عرض جغرافیایی</string>
 	<string name="navigate_point_longitude">طول جغرافیایی</string>
-	<string name="poi_remove_confirm_template">{0} حذف شود(توضیح دهید)؟</string>
-	<string name="osb_comment_dialog_error">خطایی رخ داد: توضیح افزوده نشد</string>
-	<string name="osb_close_dialog_error">خطایی رخ داد: اشکال بسته نشد</string>
 	<string name="Closest_Amenities">نزدیکترین امکانات رفاهی</string>
 	<string name="map_tile_source_descr">منبع نقشه آنلاین یا ذخیره شده را انتخاب کنید</string>
 	<string name="error_calculating_route_occured">درحین محاسبه مسیر خطایی رخ داد</string>
@@ -544,8 +478,6 @@
 	<string name="poi_filter_custom_filter">فیلتر سفارشی</string>
 	<string name="poi_filter_namefinder">نام یاب آنلاین</string>
 	<string name="poi_search_desc">جستجوی POI (مکانهای مهم)</string>
-	<string name="poi_dialog_comment_default">تغییر POI</string>
-	<string name="default_buttons_commit">اجرا</string>
 	<string name="download_srtm_maps">منحنی‌های هم‌تراز</string>
     <string name="srtm_plugin_name">افزونه منحنی‌های هم‌تراز</string>
     <string name="index_srtm_ele">خطوط هم‌تراز</string>
@@ -673,15 +605,6 @@
     <string name="map_widget_vector_attributes">خصوصیات رندر نقشه:</string>
 	
 	
-	<string name="av_photo_play_sound_descr">پخش صدای شاتر دوربین در زمان عکسبرداری</string>
-<string name="av_camera_focus">نوع فوکوس دوربین</string>
-	<string name="av_camera_focus_descr">انتخاب نوع فوکوس دوربین داخلی</string>
-	<string name="av_camera_focus_auto">فوکوس خودکار</string>
-	<string name="av_camera_focus_hiperfocal">فوکوس فراکانونی</string>
-	<string name="av_camera_focus_edof">عمق میدان گسترده (EDOF)</string>
-	<string name="av_camera_focus_infinity">فوکوس بر روی بینهایت تنظیم شده است</string>
-	<string name="av_camera_focus_macro">حالت فوکوس ماکرو (از نزدیک)</string>
-	<string name="av_camera_focus_continuous">دوربین دائماً در حال فوکوس میباشد</string>
 	<string name="choose_intersected_street">خیابان متقاطع را انتخاب کنید</string>
 	<string name="osm_settings">ویرایش OSM</string>
 	<string name="save_current_track_descr">مسیر جاری هم اکنون بر روی کارت حافظه ذخیره شود</string>
@@ -692,7 +615,6 @@
 	<string name="map_preferences_descr">اختصاص تنظیمات نقشه مانند: منبع نقشه، چرخش، موقعیت نشانگر، چرخش صفحه</string>
 	<string name="osm_settings_descr">اختصاص تنظیمات (Openstreetmap.org (OSM مورد لزوم برای ورود به OSM</string>
 	<string name="data_settings_descr">اختصاص زبان، دانلود یا بارگیری مجدد داده‌ها</string>
-	<string name="av_photo_play_sound">در هنگام عکسبرداری صدا پخش شود</string>
 	<string name="intermediate_items_sort_by_distance">مرتب کردن</string>
     <string name="local_osm_changes_backup_successful">فایل تغییر OsmAnd با موفقیت ایجاد شد</string>
     <string name="safe_mode">حالت ایمن</string>
@@ -1511,11 +1433,7 @@ OsmAnd منبع باز است و فعالانه در حال توسعه است. �
 	<string name="update_poi_is_not_available_for_zoom">به روز رسانی POIها برای سطح زوم کم وجود ندارد</string>
 	<string name="commiting_node">قراردادن نقطه…</string>
 	<string name="poi">POI</string>
-	<string name="navigate_point_format_D">DDD.DD</string>
-	<string name="navigate_point_format_DM">DDD MM.MM</string>
-	<string name="navigate_point_format_DMS">DDD MM SS.SS</string>
-	<string name="poi_error_poi_not_found">نقطه پیدا نشد و یا مکان مورد به صورت نقطه ای نیست</string>
-        <string name="osb_author_or_password_not_specified">لطفاً نام کاربری و رمز سایت OSM خود را در قسمت تنظیمات وارد کنید</string>
+	<string name="osb_author_or_password_not_specified">لطفاً نام کاربری و رمز سایت OSM خود را در قسمت تنظیمات وارد کنید</string>
 	<string name="clear_intermediate_points">پاک کردن نقاط بین راهی</string>
 	<string name="keep_intermediate_points">نگه داشتن نقاط بین راهی</string>
 	<string name="new_directions_point_dialog">قبلاً نقاط بین راهی را چیده اید.</string>
@@ -1523,7 +1441,6 @@ OsmAnd منبع باز است و فعالانه در حال توسعه است. �
 	<string name="context_menu_item_directions_from">از طرف</string>
 	<string name="route_descr_map_location">نقشه: </string>
 	<string name="route_to">به:</string>
-	<string name="osb_author_dialog_password">رمز عبور OSM (اختیاری)</string>
 <string name="speak_title">اعلام…</string>
 	<string name="speak_descr">پیکربندی اعلام نام خیابانها، هشدارهای ترافیکی (توقف اجباری، سرعتگیرها)، دوربینهای کنترل سرعت، سرعت مجاز</string>
 	<string name="speak_street_names">اعلام نام خیابانها (TTS)</string>
@@ -1738,7 +1655,6 @@ OsmAnd منبع باز است و فعالانه در حال توسعه است. �
 	<string name="keep_informing_never">هرگز</string>
     <string name="keep_informing_descr">دستورات مسیریابی مجدد در فواصل منظم</string>
     <string name="keep_informing">تکرار دستورات مسیریابی</string>
-	<string name="navigation_intent_invalid">قالب نامعتبر: %s</string>
 <string name="arrival_distance">اعلام ورود</string>
     
     <string name="osmo_io_error">خطا در اتصال به OSMo: </string>
@@ -1971,7 +1887,91 @@ OsmAnd منبع باز است و فعالانه در حال توسعه است. �
     <string name="arrival_distance_factor_normally">معمولی</string>
     <string name="arrival_distance_factor_late">دیر</string>
     <string name="arrival_distance_factor_at_last">در آخرین مترها</string>
-    <string name="av_camera_pic_size">اندازه عکس دوربین</string>
-	<string name="av_camera_pic_size_descr">انتخاب اندازه عکس دوربین داخلی</string>
+	<string name="navigate_point_format_D">DDD.DD</string>
+	<string name="navigate_point_format_DM">DDD MM.MM</string>
+	<string name="navigate_point_format_DMS">DDD MM SS.SS</string>
+	<string name="search_shown_on_map">روی نقشه نشان بده</string>
+	<string name="navigate_point_cancel">لغو</string>
+	<string name="search_address_top_text">انتخاب آدرس</string>
+	<string name="search_address_region">ناحیه</string>
+	<string name="search_address_city">شهر</string>
+	<string name="search_address_street">خیابان</string>
+	<string name="search_address_building">ساختمان</string>
+	<string name="search_address_building_option">ساختمان</string>
+	<string name="search_address_street_option">تقاطع</string>
+	<string name="search_tabs_location">محل</string>
+	<string name="context_menu_item_add_favorite">افزودن به علاقمندیها</string>
+	<string name="context_menu_item_update_map">به روز رسانی نقشه</string>
+	<string name="context_menu_item_open_bug">بازکردن اشکال OSM</string>
+	<string name="context_menu_item_create_poi">ایجاد POI</string>
+	<string name="default_buttons_yes">بله</string>
+	<string name="default_buttons_cancel">لغو</string>
+	<string name="default_buttons_apply">بکارگیری</string>
+	<string name="default_buttons_add">افزودن</string>
+	<string name="default_buttons_no">خیر</string>
+	<string name="add_favorite_dialog_top_text">نام علاقمندی را وارد کنید</string>
+	<string name="add_favorite_dialog_default_favourite_name">علاقمندی</string>
+	<string name="add_favorite_dialog_favourite_added_template">نقطه علاقمندی \'{0}\' اضافه شد.</string>
+	<string name="favourites_context_menu_edit">ویرایش علاقمندی</string>
+	<string name="favourites_context_menu_delete">حذف علاقمندی</string>
+	<string name="favourites_remove_dialog_msg">آیا نقطه مورد علاقه \'%s\' حذف شود؟</string>
+	<string name="favourites_remove_dialog_success">علاقمندی {0} حذف شد.</string>
+	<string name="osb_add_dialog_title">شرح اشکال را وارد کنید</string>
+	<string name="osb_add_dialog_success">اشکال با موفقیت ایجاد شد</string>
+	<string name="osb_add_dialog_error">خطایی روی داد: اشکال ایجاد نشد</string>
+	<string name="osb_author_dialog_password">رمز عبور OSM (اختیاری)</string>
+	<string name="osb_comment_menu_item">افزودن توضیح</string>
+	<string name="osb_comment_dialog_message">پیام</string>
+	<string name="osb_comment_dialog_author">نام نویسنده</string>
+	<string name="osb_comment_dialog_title">افزودن توضیح به اشکال</string>
+	<string name="osb_comment_dialog_add_button">افزودن توضیح</string>
+	<string name="osb_comment_dialog_success">توضیح اضافه شد</string>
+	<string name="osb_comment_dialog_error">خطایی رخ داد: توضیح افزوده نشد</string>
+	<string name="osb_close_menu_item">بستن اشکال</string>
+	<string name="osb_close_dialog_title">درحال بستن اشکال</string>
+	<string name="osb_close_dialog_close_button">بستن اشکال</string>
+	<string name="osb_close_dialog_success">اشکال بسته شد</string>
+	<string name="osb_close_dialog_error">خطایی رخ داد: اشکال بسته نشد</string>
+	<string name="poi_edit_title">ویرایش POI</string>
+	<string name="poi_create_title">ایجاد POI</string>
+	<string name="poi_error_poi_not_found">نقطه پیدا نشد و یا مکان مورد نظر به صورت نقطه نیست</string>
+	<string name="poi_remove_confirm_template">{0} حذف شود(توضیح دهید)؟</string>
+	<string name="poi_remove_title">حذف POI</string>
+	<string name="default_buttons_delete">حذف</string>
+	<string name="poi_remove_success">POI حذف شد</string>
+	<string name="poi_action_add">افزودن</string>
+	<string name="poi_action_change">تغییردادن</string>
+	<string name="poi_action_succeded_template">{0} انجام شد.</string>
+	<string name="poi_error_unexpected_template">خطای غیرمنتظره در حین {0} اتفاق افتاد.</string>
+	<string name="poi_error_io_error_template">خطای I/O در حین انجام {0} اتفاق افتاد.</string>
+	<string name="poi_error_info_not_loaded">اطلاعات نقطه بارگذاری نشد</string>
+	<string name="poi_dialog_name">نام</string>
+	<string name="poi_dialog_opening_hours">بازکردن</string>
+	<string name="poi_dialog_comment">توضیح</string>
+	<string name="poi_dialog_comment_default">تغییر POI</string>
+	<string name="poi_dialog_other_tags_message">همه تگ ها حفظ شد</string>
+	<string name="default_buttons_commit">اجرا</string>
+	<string name="default_buttons_reset">تنظیم مجدد</string>
+	<string name="filter_current_poiButton">فیلتر</string>
+	<string name="edit_filter_delete_menu_item">حذف</string>
+	<string name="edit_filter_save_as_menu_item">ذخیره در</string>
+	<string name="edit_filter_delete_dialog_title">فیلتر انتخاب شده حذف شود؟</string>
+	<string name="edit_filter_delete_message">فیلتر {0} حذف شد</string>
+	<string name="edit_filter_create_message">فیلتر {0} ایجاد شد</string>
+	<string name="default_buttons_selectall">انتخاب همه</string>
+	<string name="email">پست الکترونیکی</string>
+	<string name="av_camera_focus">نوع فوکوس دوربین</string>
+	<string name="av_camera_focus_descr">انتخاب نوع فوکوس دوربین داخلی</string>
+	<string name="av_camera_focus_auto">فوکوس خودکار</string>
+	<string name="av_camera_focus_hiperfocal">فوکوس فراکانونی</string>
+	<string name="av_camera_focus_edof">عمق میدان گسترده (EDOF)</string>
+	<string name="av_camera_focus_infinity">فوکوس بر روی بینهایت تنظیم شده است</string>
+	<string name="av_camera_focus_macro">حالت فوکوس ماکرو (از نزدیک)</string>
+	<string name="av_camera_focus_continuous">دوربین دائماً در حال فوکوس میباشد</string>
+    	<string name="av_photo_play_sound">در هنگام عکسبرداری صدا پخش شود</string>
+    	<string name="av_photo_play_sound_descr">انتخاب پخش صدای شاتر دوربین در زمان عکسبرداری</string>
+    	<string name="av_camera_pic_size">اندازه عکس دوربین</string>
+    	<string name="av_camera_pic_size_descr">انتخاب اندازه عکس دوربین</string>
+    <string name="navigation_intent_invalid">قالب نامعتبر: %s</string>
     <string name="hide_all_waypoints">حذف همه</string>
 </resources>

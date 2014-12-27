@@ -1,5 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources><string name="local_osm_changes_backup_failed">پشتیبان‌گیری از تغییرات OsmAnd ناموفق بود</string>
+<resources>
+ <!--
+Disclaimer:
+If you are going to translate strings, please make sure:
+1. There is no duplicate strings by name
+2. Every apostrophe (quote) is preceded by a backslash (see others).
+If you are making/correcting English translations make sure:
+3. All your modified/created strings are in the top of the file (to make easier find what\'s translated).
+PLEASE: Have a look at http://code.google.com/p/osmand/wiki/UIConsistency, it may really improve your and our work :-) Thx - Hardy
+-->
+	<string name="speak_pedestrian">اعلام خط کشی عابر پیاده</string>
+    <string name="rendering_attr_roadStyle_name">سبک جاده ای</string>
+    <string name="rendering_value_default_name">پیش فرض</string>
+    <string name="rendering_value_orange_name">نارنجی</string>
+    <string name="rendering_value_germanRoadAtlas_name">اطلس جاده های آلمانی</string>
+    	<string name="traffic_warning_railways">تقاطع راه آهن</string>
+    	<string name="traffic_warning_pedestrian">خطوط عابر پیاده</string>
+    	<string name="show_railway_warnings">نمایش تقاطع راه آهن</string>
+    	<string name="show_pedestrian_warnings">نمایش خط کشی عابر پیاده</string>
+    <string name="rendering_value_americanRoadAtlas_name">اطلس جاده های آمریکا</string>
+    <string name="routing_attr_no_new_routing_name">بدون استفاده از قوانین مسیریابی ورژن 1.9</string>    	
+    <string name="routing_attr_no_new_routing_description">از قوانین مسیریابی ورژن 1.9 استفاده نکیند</string>
+    <string name="dash_download_msg_none">آیا میخواید نقشه های آفلاین را دانلود کنید ؟</string>
+    <string name="dash_download_msg">شما نقشه های %1$s را دانلود کردید</string>
+    <string name="dash_download_new_one">دانلود نقشه های جدید</string>
+    <string name="dash_download_manage">مدیریت</string>
+    <string name="map_locale">انتخاب زبان نقشه</string>
+    <string name="rendering_attr_transportStops_name">ایستگاه حمل و نقل</string>
+    <string name="application_dir_change_warning2">آیا میخواهید دیتای برنامه را به آدرس جدید منتقل کنید ؟</string>
+    <string name="navigate_point_zone">منطقه</string>
+    <string name="navigate_point_northing">شمالی</string>
+    <string name="navigate_point_easting">شرقی</string>
+    <string name="download_tab_downloads">دانلود همه &#160;</string>
+    <string name="download_tab_updates">آپدیت</string>
+    <string name="download_tab_local">محلی</string>
+    	<string name="no_internet_connection">امکان دانلود وجود ندارد لطفا از اتصال اینترنت خود اطمینان حاصل کنید.</string>
+    <string name="dismiss">بستن</string>
+    <string name="everything_up_to_date">همه فایلها به روز است</string>
+    <string name="use_opengl_render">استفاده از رندر OpneGL</string>
+    <string name="use_opengl_render_descr">استفاده از شتاب رندر OpenGl ( ممکن است در برخی از دستگاهها کار نکند )</string>
+    <string name="error_avoid_specific_road">دور برگردان وجود ندارد</string>
+    <string name="home_button">خانه</string>
+    <string name="osmo_use_https_descr">استفاده از اتصال ایمن به سرور</string>
+    <string name="osmo_use_https">استفاده از HTTPS</string>
+    	<string name="advanced_settings">پیشرفته</string>
+    	<string name="map_update">برای نقشه %1$s آپدیت وجود دارد</string>
+    	<string name="search_for">جستجو برای</string>
+    	<string name="show_map">نمایش نقشه</string>
+    	<string name="show_all">نمایش همه</string>
+    <string name="local_osm_changes_backup_failed">پشتیبان‌گیری از تغییرات OsmAnd ناموفق بود</string>
     <string name="plugin_distance_point_time">زمان</string>
     <string name="plugin_distance_point_hdop">دقت</string>
     <string name="plugin_distance_point_speed">سرعت</string>
@@ -1631,8 +1680,7 @@ OsmAnd منبع باز است و فعالانه در حال توسعه است. �
     <string name="android_19_location_disabled">بعد از ورژن اندروید کیت کت شما نمیتوانید دانلود و آپلود نقشه بر روی مکان ذخیره شده قبلی داشته باشید (%s). اگر شما خواستید برای تغیر به یکبار مجاز و کپی تمام فایل ها در اینجا?↵
         \n نکته : فایل های قدیمی باید دست نخورده باقی بماند. ↵
         \n نکته بعدی : باید آن فایل ها به اشتراک گذاشته شود بعد از OsmAnd و OsmAnd+. </string>
-    <string name="application_dir_change_warning2">OsmAnd میتواند داده‌ها را به مقصد جدید منتقل کند. آیا شما می‌پذیرید؟</string>
-    <string name="copying_osmand_one_file_descr">در حال کپی فایل (s%) به مقصد جدید...</string>
+        <string name="copying_osmand_one_file_descr">در حال کپی فایل (s%) به مقصد جدید...</string>
     <string name="copying_osmand_files_descr">در حال کپی فایل‌های OsmAnd به مقصد جدید (%s)</string>
     <string name="copying_osmand_files">فایل های OsmAnd کپی شد</string>
     <string name="calculate_osmand_route_gpx">محاسبه مسیر به صورت آفلاین</string>
